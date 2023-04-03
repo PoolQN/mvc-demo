@@ -15,6 +15,7 @@ if (isset($_POST['operacion'])){
     
     //Utilizaremos el metodo definido en la clase
     $resultado = $curso->listarcursos();
+    sleep(3);
 
     //Enviamos el resultado a la vista como un JSON
     echo json_encode($resultado);
