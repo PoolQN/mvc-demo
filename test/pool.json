@@ -1,0 +1,38 @@
+{
+    "infopersonal": {
+        "datos": {
+            "nombre": "Pool",
+            "apellido": "Quesada",
+            "email": "poolqnolasco@gmail.com",
+            "telefono": "1234567890"
+        },
+        "mifamilia": {
+            "madre": "Nancy",
+            "padre": "Wilber",
+            "abuelo": "Miguel"
+        }
+    },
+    "formacion": {
+        "primaria": ["I.E.P. San Vicente de Ferrer"],
+        "secundaria": ["I.E.P. San Vicente de Ferrer"],
+        "superior": ["SENATI"]
+    },
+    "habilidades": {
+        "deportivas": {
+            "futbol": ["Equipo A", "Equipo B", "Equipo C"],
+            "karate": ["Cinta Verde", "Cinta Marron", "Cinta Negra"]
+        },
+        "sociales": {
+            "intrapersonales": ["Autocontrol", "Autoestima", "Resilencia"],
+            "interpersonales": ["Liderazgo", "Trabajo en Equipo"]
+        },
+        "profesional": {
+            "Programador": {
+                "lenguajes": ["PHP", "C++", "Python", "CSS", "SQL"],
+                "basedatos": ["MySQL", "MS SQL SERVER", "Oracle DB", "SQLite"],
+                "devmovil": ["ReactNative", "Kotlin", "Java", "Xamarin"]
+            },
+            "Docente": ["Institucion 1", "Institucion 2", "SENATI"]
+        }
+    }
+}
